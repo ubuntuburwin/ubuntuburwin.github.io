@@ -14,7 +14,7 @@ All I got off the top of my head but there is many more! If you're indecisive go
 * Pycharm (Option 1) I like this best personally, honestly so good. May be a bit clunky for you though (https://www.jetbrains.com/pycharm/download/)
 * Eclipse (Option 2) This is what ICS 33 runs on. Honestly not a bad IDE just feels a bit outdated (probably because I used to use a similar IDE in High School) not a bad option (https://www.eclipse.org/downloads/)
 * Spyder (Option 3) Henry's preferred IDE! I don't know much but -- it is available! (https://docs.spyder-ide.org/installation.html)
-* Notepad (Option 4) Nothing to it -- Python can be programmed as if it was a TXT document. It is a wee bit of a nightmare though, but it can be done, and some people really stand by it because no matter what machine, you can do it! (Already built in)
+* Notepad/IDLE (Option 4) Nothing to it -- Python can be programmed as if it was a TXT document. It is a wee bit of a nightmare though, but it can be done, and some people really stand by it because no matter what machine, you can do it! (Already built in)
 
 ### Basic concepts
 https://www.programiz.com/python-programming/keywords-identifier (From here to Operator Overloading) <br />
